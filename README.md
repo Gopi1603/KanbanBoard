@@ -2,7 +2,7 @@
 
 Welcome to KanbanBoard, an interactive Kanban board application built with ReactJS! Manage your tasks efficiently with dynamic grouping and sorting options.
 
-![KanbanBoard Preview](https://drive.google.com/file/d/1PP_aQdiFXCbT1ZM2YAU964HUxDWJaOvQ/view?usp=sharing)
+![KanbanBoard Preview](imgg/preview.png)
 ## Features 🚀
 
 - **Dynamic Grouping:** Group tasks by Status, User, or Priority.
@@ -11,10 +11,10 @@ Welcome to KanbanBoard, an interactive Kanban board application built with React
 
 ## Screenshots 📸
 
-![Grouping by User](https://drive.google.com/file/d/1JxX7T3hs6EmIaaaJocNt1Heu3YUdh57G/view?usp=drive_link)
+![Grouping by User](imgg/user.png)
 _Grouping by User view._
 
-![Grouping by Priority](https://drive.google.com/file/d/1BoR6g3hIWX85Ebz2sgx7trZ6pBEOwLZx/view?usp=drive_link)
+![Grouping by Priority](imgg/priority.png)
 _Grouping by Priority view._
 
 ## Technologies Used 💻
